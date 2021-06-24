@@ -1,0 +1,20 @@
+body {
+  padding-top: 54px;
+}
+
+
+.main-header {
+  height: 50vh;
+  background: url("../../img/esmain.png") center center no-repeat scroll;
+}
+
+.main-div {
+  height: 10px;
+
+}
+
+.card 
+{
+  height: 100%;
+  margin-left: 170px;
+}
